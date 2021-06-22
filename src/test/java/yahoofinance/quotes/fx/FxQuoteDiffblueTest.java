@@ -8,6 +8,7 @@ import java.math.BigDecimal;
 
 import org.junit.Test;
 
+
 public class FxQuoteDiffblueTest {
     @Test
     public void testConstructor() {
